@@ -1,0 +1,24 @@
+Topics:
+	-Modularity
+		-Breaking the building in to modular parts for creation/reuse
+		-Using modularity to model buildings quickly
+		-Never made modular city environments
+
+	-Optimization
+		-Texture reuse and low poly modeling
+		-consider the lobster david foster wallace
+
+Goals:
+	-Make shit quick
+	-Make it reuseable
+
+Steps I took:
+	1. Finding reference
+		-Found online reference
+		-The building was still there, so I walked around the building, wouldn't let me inside though
+	2. Matched the reference to the grid
+		-Very important
+		
+
+Writing:
+		Making environment modeling is 	
